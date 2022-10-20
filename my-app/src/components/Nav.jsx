@@ -8,22 +8,6 @@ import './Nav.css'
 
 export default function Nav() {
   return (
-    // <div className='container'>
-    //     <div className='row'>
-    //         <ul className='nav'>
-    //         <p className=''><img src={umbrella} alt='puf'></img>PUFI PUFF</p>
-    //         <p className='navbar-menu'><img src={bolsas} alt='puf'></img>PUFI PUFF</p>
-    //         <p className='navbar-menu'><img src={nap} alt='puf'></img>PUFI PUFF</p>
-    //         <p className='navbar-menu'><img src={puff} alt='puf'></img>PUFI PUFF</p>
-                        
-            
-    //     </ul>
-    //     </div>
-    //     <ul className='account'>
-    //         <dd className='navbar-menu'>MI CUENTA</dd>
-    //         <dd>MI COMPRA</dd>
-    //     </ul>
-    // </div>
     
     
         <div className='navbar_container'>
