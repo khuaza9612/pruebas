@@ -1,0 +1,67 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+    border-top: 5px outset;
+    
+}
+.footer-container{
+    padding-top:20px ;
+    display:grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: 0 auto;
+    border-bottom: 1px solid;
+    margin-right: 1em;
+   
+    
+    
+    }
+
+.otro{
+    width: 15em;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+   
+    border-left: 1px solid grey;
+   
+
+}
+.otro div{
+    display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1em;
+            
+}
+
+.otro p{
+    font-size: 0.9em;
+    
+}
+.otro img{
+    width: 2em;
+    height: 2em;
+}
+.redes{
+    display: flex; 
+        align-items: flex-start;
+    justify-content: space-between;
+        padding-left: 1.5em;
+        border-left: 1px solid grey;
+}
+
+.redes img{
+    width: 1.0em;
+    height: 1.0em;
+    
+}
+
+.footer-links p{
+    font-size: 1.5em;
+}
+.contacto{
+    border-left: 1px solid grey;
+}

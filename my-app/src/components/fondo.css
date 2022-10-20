@@ -1,0 +1,86 @@
+
+.carousel-control-prev{
+    background-color: transparent;
+    border: none;
+    margin-left: 10em;
+}
+.carousel-control-next{
+    background-color: transparent;
+    border: none;
+    margin-left: 10em;
+}
+
+
+.btnShop{
+    border: 1px solid ;
+    background: transparent;
+   
+    padding: 0.5em 1.5em 0.5em 1.5em;
+    margin-top: 10em;
+    margin-bottom: 5em;
+}
+
+h2{
+    font-size: 2.5em;
+    text-align: center;
+ }
+ .grilla{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0 auto; 
+
+ }
+ .prueba{
+    width: 50px;
+ }
+.botong{
+    padding: 0; border: none; background: none;
+
+
+}
+.textgrilla2{
+    
+    background-image: url(../img/fondo.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.imagen{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0 auto; 
+    
+}
+.img{
+    width: 120px;
+    height: 100px;
+    margin-top: 3em;
+}
+.instagram{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+}
+.sups{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+}
+.p1{
+    color:gray;
+    font-size: 1.5em;
+    margin-top: 1em;
+
+}
+    
+.p2{
+    font-size: 2.5em;
+    color: black;
+    
+}
+.p3{
+    font-size: 1.5em;
+   
+}
